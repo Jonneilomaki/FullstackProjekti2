@@ -10,3 +10,4 @@ Ongelma saattaa johtua palomuurini/virustorjunnan asetuksista, joita säätämä
 Kokeilin myös käyttää IP osoitetta Localhostin sijaan.
 Testasin myös muita reittejä, mutta keskitin suurimman osan ajastani siihen, että saisin elokuvat edes näkyville, ilman tulosta.
 Postman sovellus teki täysin samaa kuin selaimeni, eli latasi loputtomiin. Toisin kuin selaimeni, Postman aikakatkaisi hakuni ja antoi virheilmoituksen.
+Testasin kaikkea sekä Chromella että Edgellä.
